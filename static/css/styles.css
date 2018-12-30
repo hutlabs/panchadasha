@@ -9,6 +9,10 @@ body {
 	width: 250px;
 }
 
+.img-sp {
+	width: 160px;
+}
+
 .map-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
